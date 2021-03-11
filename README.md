@@ -6,8 +6,6 @@ description: >-
 
 # Introduction
 
-## Can I become who I want to be?
-
 ## Got Doubts We Have A Server For It .
 
 That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
@@ -17,8 +15,6 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 ## Have you had a chance to answer the previous question?
 
 ## Can Bot Change Prefix Acc To Our Need ?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
 Yes It Can By Default Its Prefix When Joined Is "**?**"   
   
